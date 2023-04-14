@@ -15,4 +15,3 @@ serving_dir
 /credentials/
 /gcloud/
 /spark-3.3.2-bin-hadoop3/
-secrets/
