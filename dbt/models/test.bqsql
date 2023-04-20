@@ -1,0 +1,19 @@
+select 
+* 
+from 
+refereeinganalysis.appointments_data_transformed.all_appointments;
+
+
+
+select
+* 
+from 
+refereeinganalysis.appointments_data_raw.2022;
+
+
+      SELECT
+        matchdate,
+        PARSE_DATE('%d/%m/%Y', FORMAT_DATE('%d/%m/%Y', DATE(matchdate))) AS formatted_date
+
+      FROM refereeinganalysis.appointments_data_raw.201620172018
+      limit 100;

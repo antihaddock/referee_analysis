@@ -1,0 +1,23 @@
+version: 2
+
+sources:
+  - name: raw
+    database: refereeinganalysis  
+    schema: appointments_data_raw
+    tables:
+      - name: '2009'
+      - name: '20102011'
+      - name: '2012'
+      - name: '20132014'
+      - name: '2015'
+      - name: '201620172018'
+      - name: '2019'
+      - name: '2020'
+      - name: '2021'
+      - name: '2022'
+      - name: 2022SuspensionRegisterMaster
+      - name: 2022YellowCardRegisterMaster
+
+      
+
+  
