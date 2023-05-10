@@ -86,8 +86,8 @@ with union_all_apps as(
 
     select 
         name,
-        position,   
         matchdate,
+        position,   
         matchgrade,
         kickoff,
         ground,
@@ -100,8 +100,8 @@ with union_all_apps as(
 
     select 
         name,
-        position,
         matchdate,
+        position,
         matchgrade,
         kickoff,
         ground,
@@ -114,8 +114,8 @@ with union_all_apps as(
 
     select 
         name,
-        position,
         matchdate,
+        position,
         matchgrade,
         kickoff,
         ground,
@@ -128,8 +128,8 @@ with union_all_apps as(
 
     select 
         name,
-        position,
         matchdate,
+        position,
         matchgrade,
         kickoff,
         ground,

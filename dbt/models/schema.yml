@@ -1,0 +1,21 @@
+version: 2
+
+seeds:
+  - name: Competitions_dim
+    description: "Breakdown of competition start date and end date by year"
+    columns:
+      - name: Competition
+        data-type: string
+
+      - name: Year
+        
+
+      - name: Start_Date
+        meta:
+          dbt_utils:
+            parse_dates: true
+
+      - name: End_Date
+        meta:
+          dbt_utils:
+            parse_dates: true
