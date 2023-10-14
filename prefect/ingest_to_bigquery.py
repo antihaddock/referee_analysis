@@ -40,13 +40,14 @@ def write_to_bq() -> None:
        
         if file.endswith('.csv'):
             df = pd.read_csv(file, low_memory=False)
+            # Pre processing of data   
+            df = df.dropna()    
         elif file.endswith('.xlsx'):
             df = pd.read_excel(file)
+            df = df.applymap(lambda x: x.encode('utf-8').strip() if isinstance(x, str) else x)
         else:
             print(f"{file} is not a CSV or XLSX file.")
 
-        # Pre processing of data   
-        df = df.dropna()    
         # Define a dictionary that maps the old column names to the new ones
         column_mapping = {
                       "Item/Acct" : 'Position',

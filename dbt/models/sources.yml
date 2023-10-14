@@ -15,6 +15,7 @@ sources:
       - name: '2020'
       - name: '2021'
       - name: '2022'
+      - name: '2023'
       - name: 2022SuspensionRegisterMaster
       - name: 2022YellowCardRegisterMaster
 

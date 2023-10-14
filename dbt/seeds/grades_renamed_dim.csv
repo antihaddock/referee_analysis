@@ -1,469 +1,469 @@
-MatchGrade ,Grade,Competition
-Australia,Australia Cup,Cup
-FFA Cup,Australia Cup,Cup
-FFA Cup  4th,Australia Cup,Cup
-FFA Cup  AR,Australia Cup,Cup
-FFA Cup  Ref,Australia Cup,Cup
-Herit. Cup,Heritage Cup,Cup
-Knock out Competition,Solo Cup,Cup
-NNSWF_State Cup Line,State Cup,Cup
-STATE CUP NNSW,First Grade,Cup
-Women's St,State Cup,Cup
-New FM First Grade Centre,First Grade,First Division
-New FM Reserve Grade Centre,Reserve Grade,First Division
-New FM Reserve Grade Line,Reserve Grade,First Division
-New FM Youth Grade Centre,Youth Grade,First Division
-New FM Youth Line,Youth Grade,First Division
-NEWFM  AR,First Grade,First Division
-NEWFM  Ref,First Grade,First Division
-NewFM 13,Under 13,First Division
-NewFM 14,Under 14,First Division
-NewFM 15,Under 15,First Division
-NewFM 16,Under 16,First Division
-NEWFM 17 AR,Under 17,First Division
-NewFM 18,Under 18,First Division
-NewFM 19,Under 19,First Division
-NEWFM 19 4th,Under 19,First Division
-NEWFM 19 AR,Under 19,First Division
-NEWFM 19 Ref,Under 19,First Division
-NewFM 1st,First Grade,First Division
-NEWFM 1st 4th,First Grade,First Division
-NEWFM 1st AR,First Grade,First Division
-NEWFM 1st Ref,First Grade,First Division
-NEWFM 23 4th,Reserve Grade,First Division
-NEWFM 23 AR,Reserve Grade,First Division
-NEWFM 23 Ref,Reserve Grade,First Division
-NewFM First Grade Line,First Grade,First Division
-NewFM Res,Reserve Grade,First Division
-NewFM15,Under 15,First Division
-NewFM17,Under 17,First Division
-NewFM19,Under 19,First Division
-NewFM23,Reserve Grade,First Division
-U/17 Centre,First Grade,First Division
-u/17 centre,First Grade,First Division
-U/17 line,First Grade,First Division
-U/17 LINE,First Grade,First Division
-U-17 Line,First Grade,First Division
-u-17 LINE,First Grade,First Division
-U-17 LINE,First Grade,First Division
-under 17 grand final centre-cameron burns,Under 17,First Division
-under 17 grand final line - Josh Terry,Under 17,First Division
-under 17 grandfinal line - Austin Bond,Under 17,First Division
- 10 Years -,Juniors,Juniors
- 10 Years B,Juniors,Juniors
- 10 Years G,Juniors,Juniors
- 11 Years -,Juniors,Juniors
- 11 Years G,Juniors,Juniors
- 12 A,Juniors,Juniors
- 12 A,Juniors,Juniors
- 12 B,Juniors,Juniors
- 12 B,Juniors,Juniors
- 12 C,Juniors,Juniors
- 12 C,Juniors,Juniors
- 12 D,Juniors,Juniors
- 12 D,Juniors,Juniors
- 12 E,Juniors,Juniors
- 12 E,Juniors,Juniors
- 12 F,Juniors,Juniors
- 12 F,Juniors,Juniors
- 12 G,Juniors,Juniors
- 12 G,Juniors,Juniors
- 12 H,Juniors,Juniors
- 12 H,Juniors,Juniors
- 12 J,Juniors,Juniors
- 12 J,Juniors,Juniors
- 12 K,Juniors,Juniors
- 12 K,Juniors,Juniors
- 12 L,Juniors,Juniors
- 12 M,Juniors,Juniors
- 12 Years -,Juniors,Juniors
- 12 Years G,Juniors,Juniors
- 13 A,Juniors,Juniors
- 13 A,Juniors,Juniors
- 13 B,Juniors,Juniors
- 13 B,Juniors,Juniors
- 13 C,Juniors,Juniors
- 13 C,Juniors,Juniors
- 13 D,Juniors,Juniors
- 13 D,Juniors,Juniors
- 13 E,Juniors,Juniors
- 13 E,Juniors,Juniors
- 13 F,Juniors,Juniors
- 13 F,Juniors,Juniors
- 13 G,Juniors,Juniors
- 13 H,Juniors,Juniors
- 13 J,Juniors,Juniors
- 14 A,Juniors,Juniors
- 14 A,Juniors,Juniors
- 14 B,Juniors,Juniors
- 14 B,Juniors,Juniors
- 14 C,Juniors,Juniors
- 14 C,Juniors,Juniors
- 14 D,Juniors,Juniors
- 14 D,Juniors,Juniors
- 14 E,Juniors,Juniors
- 14 E,Juniors,Juniors
- 14 F,Juniors,Juniors
- 14 G,Juniors,Juniors
- 14 H,Juniors,Juniors
- 15 A,Juniors,Juniors
- 15 A,Juniors,Juniors
- 15 B,Juniors,Juniors
- 15 B,Juniors,Juniors
- 15 C,Juniors,Juniors
- 15 C,Juniors,Juniors
- 15 D,Juniors,Juniors
- 15 D,Juniors,Juniors
- 15 E,Juniors,Juniors
- 15 E,Juniors,Juniors
- 15 F,Juniors,Juniors
- 15 H,Juniors,Juniors
- 15 g,Juniors,Juniors
- 16 A,Juniors,Juniors
- 16 A,Juniors,Juniors
- 16 B,Juniors,Juniors
- 16 B,Juniors,Juniors
- 16 C,Juniors,Juniors
- 16 C,Juniors,Juniors
- 16 D,Juniors,Juniors
- 16 D,Juniors,Juniors
- 16 E,Juniors,Juniors
- 17 A/B,Juniors,Juniors
- 17 A/B,Juniors,Juniors
- 17 B,Juniors,Juniors
- 17 B,Juniors,Juniors
- 17 C,Juniors,Juniors
- 17 C,Juniors,Juniors
- 18 A/B Int,Juniors,Juniors
- 18 A/B Int,Juniors,Juniors
- 18 B,Juniors,Juniors
- 18 B,Juniors,Juniors
- 18 C,Juniors,Juniors
- 18 D,Juniors,Juniors
- A/A A,Juniors,Juniors
- A/A A,Juniors,Juniors
- A/A A (Fri,Juniors,Juniors
- A/A A (Fri,Juniors,Juniors
- A/A B,Juniors,Juniors
- A/A B,Juniors,Juniors
- A/A B Int,Juniors,Juniors
- A/A B Int,Juniors,Juniors
- A/A C,Juniors,Juniors
- A/A C,Juniors,Juniors
- A/A C (Fri,Juniors,Juniors
- A/A C (Fri,Juniors,Juniors
- A/A D,Juniors,Juniors
- A/A D,Juniors,Juniors
- A/A D (Fri,Juniors,Juniors
- A/A E,Juniors,Juniors
- A/A E,Juniors,Juniors
- A/A E (Fri,Juniors,Juniors
- A/A E (Fri,Juniors,Juniors
- A/A F,Juniors,Juniors
- A/A F,Juniors,Juniors
- A/A F (Fri,Juniors,Juniors
- A/A F (Fri,Juniors,Juniors
- A/A Fri D ,Juniors,Juniors
- A/A G,Juniors,Juniors
- A/A G,Juniors,Juniors
- A/A H,Juniors,Juniors
- A/A H,Juniors,Juniors
- A/A J,Juniors,Juniors
- A/A J,Juniors,Juniors
- A/A K,Juniors,Juniors
- A/A K,Juniors,Juniors
- A/A L,Juniors,Juniors
- A/A M,Juniors,Juniors
- A/A N,Juniors,Juniors
- A/A O,Juniors,Juniors
- AA Fri G,Juniors,Juniors
- AA Fri G,Juniors,Juniors
- AA Fri H,Juniors,Juniors
- AA Fri H,Juniors,Juniors
- AA Fri J,Juniors,Juniors
- AA Fri J,Juniors,Juniors
- AA Fri K,Juniors,Juniors
- AA Fri K,Juniors,Juniors
- AA Fri L,Juniors,Juniors
- AA Fri L,Juniors,Juniors
- AA Fri M,Juniors,Juniors
- AA Fri N,Juniors,Juniors
- AA W Fri,Juniors,Juniors
- AAW Fri A,Juniors,Juniors
- AAW Fri B,Juniors,Juniors
- AAW Fri C,Juniors,Juniors
- AAW Fri D,Juniors,Juniors
- Australia ,Juniors,Juniors
- Interdistrict 25 A,Juniors,Juniors
- MF-MR-11A,Juniors,Juniors
- MR-MR-10C,Juniors,Juniors
- MR-MR-10D,Juniors,Juniors
- O 35 Sat A,Juniors,Juniors
- O 35 Sat A,Juniors,Juniors
- O 35 Sat B,Juniors,Juniors
- O 35 Sat B,Juniors,Juniors
- O 35 Sat C,Juniors,Juniors
- O 35 Sat C,Juniors,Juniors
- O/35 Fri A,Juniors,Juniors
- O/35 Fri A,Juniors,Juniors
- O/35 Fri B,Juniors,Juniors
- O/35 Fri B,Juniors,Juniors
- O/35 Fri C,Juniors,Juniors
- O/35 Fri C,Juniors,Juniors
- O/35 Fri D,Juniors,Juniors
- O/35 Fri D,Juniors,Juniors
- O/35 Fri E,Juniors,Juniors
- O/35 Fri E,Juniors,Juniors
- O/35 Fri F,Juniors,Juniors
- O/35 Fri F,Juniors,Juniors
- O/35 Fri G,Juniors,Juniors
- O/35 Fri G,Juniors,Juniors
- O/35 Fri H,Juniors,Juniors
- O/35 Fri H,Juniors,Juniors
- O/35 Fri J,Juniors,Juniors
- O/35 Fri J,Juniors,Juniors
- O/35 Fri K,Juniors,Juniors
- O/35 Fri K,Juniors,Juniors
- O/35 Fri L,Juniors,Juniors
- O/35 Sat D,Juniors,Juniors
- O/35 Sat E,Juniors,Juniors
- O/35 Sat F,Juniors,Juniors
- SAP 10,Juniors,Juniors
- SAP 11,Juniors,Juniors
- SAP 11,Juniors,Juniors
- SAP 12,Juniors,Juniors
- SAP 12,Juniors,Juniors
- SAP 9,Juniors,Juniors
- SAP11,Juniors,Juniors
- SAP12,Juniors,Juniors
- Summer O35,Juniors,Juniors
- W12 A,Juniors,Juniors
- W12 A,Juniors,Juniors
- W12 B,Juniors,Juniors
- W12 B,Juniors,Juniors
- W12 C,Juniors,Juniors
- W12 C,Juniors,Juniors
- W13 A,Juniors,Juniors
- W13 A,Juniors,Juniors
- W13 B,Juniors,Juniors
- W13 B,Juniors,Juniors
- W14 A,Juniors,Juniors
- W14 A,Juniors,Juniors
- W14 B,Juniors,Juniors
- W14 B,Juniors,Juniors
- W15 A,Juniors,Juniors
- W15 A,Juniors,Juniors
- W15 B,Juniors,Juniors
- W16 A,Juniors,Juniors
- W16 A,Juniors,Juniors
- W16 B,Juniors,Juniors
- W16 B,Juniors,Juniors
- W16 C,Juniors,Juniors
- W18 A,Juniors,Juniors
- W18 A,Juniors,Juniors
- WA/A  A,Juniors,Juniors
- WA/A  A,Juniors,Juniors
- WA/A B,Juniors,Juniors
- WA/A B,Juniors,Juniors
- WA/A C,Juniors,Juniors
- WA/A C,Juniors,Juniors
- WA/A D,Juniors,Juniors
- WA/A D,Juniors,Juniors
- WA/A E,Juniors,Juniors
- WA/A E,Juniors,Juniors
- WA/A F,Juniors,Juniors
- WA/A F,Juniors,Juniors
- WA/A G,Juniors,Juniors
- WA/A G,Juniors,Juniors
- WA/A H,Juniors,Juniors
-NPL - first grade line,First Grade,National Premier League
-NPL - reserve grade line,Reserve Grade,National Premier League
-NPL - youth grade centre,Youth Grade,National Premier League
-NPL - Youth grade line,Youth Grade,National Premier League
-NPL 13,Under 13,National Premier League
-NPL 14,Under 14,National Premier League
-NPL 15,Under 15,National Premier League
-NPL 16,Under 16,National Premier League
-NPL 18,Under 18,National Premier League
-NPL 19 4th,Youth Grade,National Premier League
-NPL 19 AR,Youth Grade,National Premier League
-NPL 19 Ref,Youth Grade,National Premier League
-NPL 1st,First Grade,National Premier League
-NPL 1st 4th,First Grade,National Premier League
-NPL 1st AR,First Grade,National Premier League
-NPL 1st Ref,First Grade,National Premier League
-NPL 22 4th,Reserve Grade,National Premier League
-NPL 22 AR,Reserve Grade,National Premier League
-NPL 22 Ref,Reserve Grade,National Premier League
-NPL- first grade centre,First Grade,National Premier League
-NPL Men's,First Grade,National Premier League
-NPL Res,Reserve Grade,National Premier League
-NPL reserve grade centre,Reserve Grade,National Premier League
-NPL Women',First Grade,National Premier League
-NPL13,Under 13,National Premier League
-NPL14,Under 14,National Premier League
-NPL15,Under 15,National Premier League
-NPL16,Under 16,National Premier League
-NPL17,Under 17,National Premier League
-NPL18,Youth Grade,National Premier League
-NPL19,Youth Grade,National Premier League
-NPL20,Reserve Grade,National Premier League
-NPL22,Reserve Grade,National Premier League
-U13 - NPL,Under 13,National Premier League
-U15 - NPL,Under 15,National Premier League
-U17 - NPL,Under 17,National Premier League
-NL1 13,Under 13,Northern League One
-NL1 14,Under 14,Northern League One
-NL1 15,Under 15,Northern League One
-NL1 16,Under 16,Northern League One
-NL1 18,Under 18,Northern League One
-NL1 1st,First Grade,Northern League One
-NL1 Res,Reserve Grade,Northern League One
-NL1 Youth,Youth Grade,Northern League One
-FNSWNPL13,NSW Under 13,NSW National Premier League
-FNSWNPL14,NSW Under 14,NSW National Premier League
-FNSWNPL15,NSW Under 15,NSW National Premier League
-FNSWNPL16,NSW Under 16,NSW National Premier League
-FNSWNPL18,NSW Under 18,NSW National Premier League
-FNSWNPL1st,NSW First Grade,NSW National Premier League
-FNSWNPL20,NSW Under 20,NSW National Premier League
-4th official 1st grade state,First Grade,State League
-4th official 1st grade state  G/Final,First Grade,State League
-4th official 1st grade state G/Final,First Grade,State League
-4th official 1st grade state s/final,First Grade,State League
-4th official reserve or youth,Reserve Grade,State League
-4th official reserve or youth G/Final,Reserve Grade,State League
-NBN First Grade Centre,First Grade,State League
-NBN First Grade Line,First Grade,State League
-NBN Reserve Grade Centre,Reserve Grade,State League
-NBN Reserve Line,Reserve Grade,State League
-NBN Youth Grade Centre,Youth Grade,State League
-NBN Youth Grade Line,Youth Grade,State League
-NSWWOMEN 1st AR,NSW First Grade,NSW Womens National Premier League
-NSWWOMEN 1st Ref,NSW First Grade,NSW Womens National Premier League
-NSWWPL13,Under 13,NSW Womens National Premier League
-NSWWPL15,Under 15,NSW Womens National Premier League
-NSWWPL17,Under 17,NSW Womens National Premier League
-NSWWPL1st,NSW First Grade,NSW Womens National Premier League
-NSWWPLRes,NSW Reserve Grade,NSW Womens National Premier League
-WNPL 14,Under 14,Womens National Premier League
-WNPL 15,Under 15,Womens National Premier League
-WNPL 17,Under 17,Womens National Premier League
-WNPL 1st,First Grade,Womens National Premier League
-WNPL Res,First Grade,Womens National Premier League
-U14 - New,Under 14,Womens Premier League
-U17 - Hera,Under 17,Womens Premier League
-U20 - Hera,Reserve Grade,Womens Premier League
-Womens Premier League Centre,First Grade,Womens Premier League
-Womens Premier League Line,First Grade,Womens Premier League
-Women's Premier League Line,First Grade,Womens Premier League
-WPL  4th,First Grade,Womens Premier League
-WPL  AR,First Grade,Womens Premier League
-WPL  Ref,First Grade,Womens Premier League
-WPL 14,Under 14,Womens Premier League
-WPL 16,Under 16,Womens Premier League
-WPL 17,Under 17,Womens Premier League
-WPL 18,Under 18,Womens Premier League
-WPL 18 AR,Under 18,Womens Premier League
-WPL 18 Ref,Under 18,Womens Premier League
-WPL 1st,First Grade,Womens Premier League
-WPL 1st 4th,First Grade,Womens Premier League
-WPL 1st AR,First Grade,Womens Premier League
-WPL 1st Ref,First Grade,Womens Premier League
-WPL Res,First Grade,Womens Premier League
-WPL-U/18 CENTRE,First Grade,Womens Premier League
-WPL-U/18 LINE,First Grade,Womens Premier League
-4th official interdistrict,First Grade,Zone League
-First Grade Centre ID1,First Grade,Zone League
-First Grade Centre ID1 G/Final,First Grade,Zone League
-First Grade Centre ID2,First Grade,Zone League
-First Grade Centre ID2     G/Final,First Grade,Zone League
-First Grade Centre ID3,First Grade,Zone League
-First Grade Centre ID3 G/Final,First Grade,Zone League
-First Grade Line ID1,First Grade,Zone League
-First Grade Line ID1 G/Final,First Grade,Zone League
-First Grade Line ID2,First Grade,Zone League
-First Grade Line ID2   G/Final,First Grade,Zone League
-First Grade Line ID3,First Grade,Zone League
-First Grade Line ID3  G/Final,First Grade,Zone League
-Reserve Gr,First Grade,Zone League
-Reserve Grade Centre,First Grade,Zone League
-Reserve Grade Centre G/Final,Reserve Grade,Zone League
-Reserve Grade Centre ID1,Reserve Grade,Zone League
-Reserve Grade Centre ID1 G/Final,Reserve Grade,Zone League
-Reserve Grade Centre ID2,Reserve Grade,Zone League
-Reserve Grade Centre ID2 G/Final,Reserve Grade,Zone League
-Reserve grade Line ID1,Reserve Grade,Zone League
-Reserve grade Line ID1 G/Final,Reserve Grade,Zone League
-Reserve Grade Line ID2,Reserve Grade,Zone League
-Reserve Grade Line ID2 G/Final,Reserve Grade,Zone League
-Reserve Grade Line ID3,Reserve Grade,Zone League
-Reserve Grade Line ID3 G/Final,Reserve Grade,Zone League
-Third Grade Centre ID1,Third Grade,Zone League
-Third Grade Centre ID1 G/Final,Third Grade,Zone League
-Third Grade Line ID1,Third Grade,Zone League
-Third Grade Line ID1 G/Final,Third Grade,Zone League
-ZFL,First Grade,Zone League
-ZFL1st,First Grade,Zone League
-ZL1 1st,First Grade,Zone League
-ZL1 1st 4th,First Grade,Zone League
-ZL1 1st AR,First Grade,Zone League
-ZL1 1st Ref,First Grade,Zone League
-ZL1 3rd,First Grade,Zone League
-ZL1 3rd 4th,First Grade,Zone League
-ZL1 3rd AR,First Grade,Zone League
-ZL1 3rd Ref,First Grade,Zone League
-ZL1 Res,First Grade,Zone League
-ZL1 Res AR,First Grade,Zone League
-ZL1 Res Ref,First Grade,Zone League
-ZL2 1st,First Grade,Zone League
-ZL2 1st AR,First Grade,Zone League
-ZL2 1st Ref,First Grade,Zone League
-ZL2 Res,First Grade,Zone League
-ZL2 Res 4th,First Grade,Zone League
-ZL2 Res AR,First Grade,Zone League
-ZL2 Res Ref,First Grade,Zone League
-ZL2/3 1st,First Grade,Zone League
-ZL2/3 Res,Reserve Grade,Zone League
-ZL3 1st,First Grade,Zone League
-ZL3 1st 4th,First Grade,Zone League
-ZL3 1st AR,First Grade,Zone League
-ZL3 1st Ref,First Grade,Zone League
-ZL3 Res,First Grade,Zone League
-ZL3 Res 4th,First Grade,Zone League
-ZL3 Res AR,First Grade,Zone League
-ZL3 Res Ref,First Grade,Zone League
-Zone Women,First Grade,Zone League
-Interdistrict 25 A,Third Grade,Zone Premier League
-premier 1st  grade line-g/final,First Grade,Zone Premier League
-premier 1st  grade line-s/final,First Grade,Zone Premier League
-premier 1st grade centre-g/final,First Grade,Zone Premier League
-premier 1st grade centre-s/final,First Grade,Zone Premier League
-PREMIER 1ST GRADE LINE,First Grade,Zone Premier League
-Premier first grade line,First Grade,Zone Premier League
-PREMIER IST GRADE CENTRE,First Grade,Zone Premier League
-premier res grade centre-g/final,Reserve Grade,Zone Premier League
-premier res grade centre-s/final,Reserve Grade,Zone Premier League
-premier res grade line-g/final,Reserve Grade,Zone Premier League
-premier res grade line-s-final,Reserve Grade,Zone Premier League
-PREMIER RESERVE GRADE CENTRE,Reserve Grade,Zone Premier League
-PREMIER RESERVE GRADE LINE,Reserve Grade,Zone Premier League
-PREMIER YOUTH GRADE CENTRE,Reserve Grade,Zone Premier League
-premier youth grade centre-g/final,Reserve Grade,Zone Premier League
-premier youth grade centre-s/final,Reserve Grade,Zone Premier League
-PREMIER YOUTH GRADE LINE,Reserve Grade,Zone Premier League
-premier youth grade line g/final,Reserve Grade,Zone Premier League
-premier youth grade line s/final,Reserve Grade,Zone Premier League
-ZFLP,First Grade,Zone Premier League
-ZFLP1st,First Grade,Zone Premier League
-ZPL 1st,First Grade,Zone Premier League
-ZPL 1st 4th,First Grade,Zone Premier League
-ZPL 1st AR,First Grade,Zone Premier League
-ZPL 1st Ref,First Grade,Zone Premier League
-ZPL 3rd,Third Grade,Zone Premier League
-ZPL 3rd 4th,Third Grade,Zone Premier League
-ZPL 3rd AR,Third Grade,Zone Premier League
-ZPL 3rd Ref,Third Grade,Zone Premier League
-ZPL Res,Reserve Grade,Zone Premier League
-ZPL Res AR,Reserve Grade,Zone Premier League
-ZPL Res Ref,Reserve Grade,Zone Premier League
+matchgrade,grade,competition,senior_comp
+Australia,Australia Cup,Cup,TRUE
+FFA Cup,Australia Cup,Cup,TRUE
+FFA Cup  4th,Australia Cup,Cup,TRUE
+FFA Cup  AR,Australia Cup,Cup,TRUE
+FFA Cup  Ref,Australia Cup,Cup,TRUE
+Herit. Cup,Heritage Cup,Cup,TRUE
+Knock out Competition,Solo Cup,Cup,TRUE
+NNSWF_State Cup Line,State Cup,Cup,TRUE
+STATE CUP NNSW,First Grade,Cup,TRUE
+Women's St,State Cup,Cup,TRUE
+New FM First Grade Centre,First Grade,First Division,TRUE
+New FM Reserve Grade Centre,Reserve Grade,First Division,TRUE
+New FM Reserve Grade Line,Reserve Grade,First Division,TRUE
+New FM Youth Grade Centre,Youth Grade,First Division,TRUE
+New FM Youth Line,Youth Grade,First Division,TRUE
+NEWFM  AR,First Grade,First Division,TRUE
+NEWFM  Ref,First Grade,First Division,TRUE
+NewFM 13,Under 13,First Division,FALSE
+NewFM 14,Under 14,First Division,FALSE
+NewFM 15,Under 15,First Division,FALSE
+NewFM 16,Under 16,First Division,FALSE
+NEWFM 17 AR,Under 17,First Division,FALSE
+NewFM 18,Under 18,First Division,FALSE
+NewFM 19,Under 19,First Division,TRUE
+NEWFM 19 4th,Under 19,First Division,TRUE
+NEWFM 19 AR,Under 19,First Division,TRUE
+NEWFM 19 Ref,Under 19,First Division,TRUE
+NewFM 1st,First Grade,First Division,TRUE
+NEWFM 1st 4th,First Grade,First Division,TRUE
+NEWFM 1st AR,First Grade,First Division,TRUE
+NEWFM 1st Ref,First Grade,First Division,TRUE
+NEWFM 23 4th,Reserve Grade,First Division,TRUE
+NEWFM 23 AR,Reserve Grade,First Division,TRUE
+NEWFM 23 Ref,Reserve Grade,First Division,TRUE
+NewFM First Grade Line,First Grade,First Division,TRUE
+NewFM Res,Reserve Grade,First Division,TRUE
+NewFM15,Under 15,First Division,FALSE
+NewFM17,Under 17,First Division,FALSE
+NewFM19,Under 19,First Division,TRUE
+NewFM23,Reserve Grade,First Division,TRUE
+U/17 Centre,Under 17,First Division,FALSE
+u/17 centre,Under 17,First Division,FALSE
+U/17 line,Under 17,First Division,FALSE
+U/17 LINE,Under 17,First Division,FALSE
+U-17 Line,Under 17,First Division,FALSE
+u-17 LINE,Under 17,First Division,FALSE
+U-17 LINE,Under 17,First Division,FALSE
+under 17 grand final centre-cameron burns,Under 17,First Division,FALSE
+under 17 grand final line - Josh Terry,Under 17,First Division,FALSE
+under 17 grandfinal line - Austin Bond,Under 17,First Division,FALSE
+ 10 Years -,Juniors,Juniors,FALSE
+ 10 Years B,Juniors,Juniors,FALSE
+ 10 Years G,Juniors,Juniors,FALSE
+ 11 Years -,Juniors,Juniors,FALSE
+ 11 Years G,Juniors,Juniors,FALSE
+ 12 A,Juniors,Juniors,FALSE
+ 12 A,Juniors,Juniors,FALSE
+ 12 B,Juniors,Juniors,FALSE
+ 12 B,Juniors,Juniors,FALSE
+ 12 C,Juniors,Juniors,FALSE
+ 12 C,Juniors,Juniors,FALSE
+ 12 D,Juniors,Juniors,FALSE
+ 12 D,Juniors,Juniors,FALSE
+ 12 E,Juniors,Juniors,FALSE
+ 12 E,Juniors,Juniors,FALSE
+ 12 F,Juniors,Juniors,FALSE
+ 12 F,Juniors,Juniors,FALSE
+ 12 G,Juniors,Juniors,FALSE
+ 12 G,Juniors,Juniors,FALSE
+ 12 H,Juniors,Juniors,FALSE
+ 12 H,Juniors,Juniors,FALSE
+ 12 J,Juniors,Juniors,FALSE
+ 12 J,Juniors,Juniors,FALSE
+ 12 K,Juniors,Juniors,FALSE
+ 12 K,Juniors,Juniors,FALSE
+ 12 L,Juniors,Juniors,FALSE
+ 12 M,Juniors,Juniors,FALSE
+ 12 Years -,Juniors,Juniors,FALSE
+ 12 Years G,Juniors,Juniors,FALSE
+ 13 A,Juniors,Juniors,FALSE
+ 13 A,Juniors,Juniors,FALSE
+ 13 B,Juniors,Juniors,FALSE
+ 13 B,Juniors,Juniors,FALSE
+ 13 C,Juniors,Juniors,FALSE
+ 13 C,Juniors,Juniors,FALSE
+ 13 D,Juniors,Juniors,FALSE
+ 13 D,Juniors,Juniors,FALSE
+ 13 E,Juniors,Juniors,FALSE
+ 13 E,Juniors,Juniors,FALSE
+ 13 F,Juniors,Juniors,FALSE
+ 13 F,Juniors,Juniors,FALSE
+ 13 G,Juniors,Juniors,FALSE
+ 13 H,Juniors,Juniors,FALSE
+ 13 J,Juniors,Juniors,FALSE
+ 14 A,Juniors,Juniors,FALSE
+ 14 A,Juniors,Juniors,FALSE
+ 14 B,Juniors,Juniors,FALSE
+ 14 B,Juniors,Juniors,FALSE
+ 14 C,Juniors,Juniors,FALSE
+ 14 C,Juniors,Juniors,FALSE
+ 14 D,Juniors,Juniors,FALSE
+ 14 D,Juniors,Juniors,FALSE
+ 14 E,Juniors,Juniors,FALSE
+ 14 E,Juniors,Juniors,FALSE
+ 14 F,Juniors,Juniors,FALSE
+ 14 G,Juniors,Juniors,FALSE
+ 14 H,Juniors,Juniors,FALSE
+ 15 A,Juniors,Juniors,FALSE
+ 15 A,Juniors,Juniors,FALSE
+ 15 B,Juniors,Juniors,FALSE
+ 15 B,Juniors,Juniors,FALSE
+ 15 C,Juniors,Juniors,FALSE
+ 15 C,Juniors,Juniors,FALSE
+ 15 D,Juniors,Juniors,FALSE
+ 15 D,Juniors,Juniors,FALSE
+ 15 E,Juniors,Juniors,FALSE
+ 15 E,Juniors,Juniors,FALSE
+ 15 F,Juniors,Juniors,FALSE
+ 15 H,Juniors,Juniors,FALSE
+ 15 g,Juniors,Juniors,FALSE
+ 16 A,Juniors,Juniors,FALSE
+ 16 A,Juniors,Juniors,FALSE
+ 16 B,Juniors,Juniors,FALSE
+ 16 B,Juniors,Juniors,FALSE
+ 16 C,Juniors,Juniors,FALSE
+ 16 C,Juniors,Juniors,FALSE
+ 16 D,Juniors,Juniors,FALSE
+ 16 D,Juniors,Juniors,FALSE
+ 16 E,Juniors,Juniors,FALSE
+ 17 A/B,Juniors,Juniors,FALSE
+ 17 A/B,Juniors,Juniors,FALSE
+ 17 B,Juniors,Juniors,FALSE
+ 17 B,Juniors,Juniors,FALSE
+ 17 C,Juniors,Juniors,FALSE
+ 17 C,Juniors,Juniors,FALSE
+ 18 A/B Int,Juniors,Juniors,FALSE
+ 18 A/B Int,Juniors,Juniors,FALSE
+ 18 B,Juniors,Juniors,FALSE
+ 18 B,Juniors,Juniors,FALSE
+ 18 C,Juniors,Juniors,FALSE
+ 18 D,Juniors,Juniors,FALSE
+ A/A A,Juniors,Juniors,FALSE
+ A/A A,Juniors,Juniors,FALSE
+ A/A A (Fri,Juniors,Juniors,FALSE
+ A/A A (Fri,Juniors,Juniors,FALSE
+ A/A B,Juniors,Juniors,FALSE
+ A/A B,Juniors,Juniors,FALSE
+ A/A B Int,Juniors,Juniors,FALSE
+ A/A B Int,Juniors,Juniors,FALSE
+ A/A C,Juniors,Juniors,FALSE
+ A/A C,Juniors,Juniors,FALSE
+ A/A C (Fri,Juniors,Juniors,FALSE
+ A/A C (Fri,Juniors,Juniors,FALSE
+ A/A D,Juniors,Juniors,FALSE
+ A/A D,Juniors,Juniors,FALSE
+ A/A D (Fri,Juniors,Juniors,FALSE
+ A/A E,Juniors,Juniors,FALSE
+ A/A E,Juniors,Juniors,FALSE
+ A/A E (Fri,Juniors,Juniors,FALSE
+ A/A E (Fri,Juniors,Juniors,FALSE
+ A/A F,Juniors,Juniors,FALSE
+ A/A F,Juniors,Juniors,FALSE
+ A/A F (Fri,Juniors,Juniors,FALSE
+ A/A F (Fri,Juniors,Juniors,FALSE
+ A/A Fri D ,Juniors,Juniors,FALSE
+ A/A G,Juniors,Juniors,FALSE
+ A/A G,Juniors,Juniors,FALSE
+ A/A H,Juniors,Juniors,FALSE
+ A/A H,Juniors,Juniors,FALSE
+ A/A J,Juniors,Juniors,FALSE
+ A/A J,Juniors,Juniors,FALSE
+ A/A K,Juniors,Juniors,FALSE
+ A/A K,Juniors,Juniors,FALSE
+ A/A L,Juniors,Juniors,FALSE
+ A/A M,Juniors,Juniors,FALSE
+ A/A N,Juniors,Juniors,FALSE
+ A/A O,Juniors,Juniors,FALSE
+ AA Fri G,Juniors,Juniors,FALSE
+ AA Fri G,Juniors,Juniors,FALSE
+ AA Fri H,Juniors,Juniors,FALSE
+ AA Fri H,Juniors,Juniors,FALSE
+ AA Fri J,Juniors,Juniors,FALSE
+ AA Fri J,Juniors,Juniors,FALSE
+ AA Fri K,Juniors,Juniors,FALSE
+ AA Fri K,Juniors,Juniors,FALSE
+ AA Fri L,Juniors,Juniors,FALSE
+ AA Fri L,Juniors,Juniors,FALSE
+ AA Fri M,Juniors,Juniors,FALSE
+ AA Fri N,Juniors,Juniors,FALSE
+ AA W Fri,Juniors,Juniors,FALSE
+ AAW Fri A,Juniors,Juniors,FALSE
+ AAW Fri B,Juniors,Juniors,FALSE
+ AAW Fri C,Juniors,Juniors,FALSE
+ AAW Fri D,Juniors,Juniors,FALSE
+ Australia ,Juniors,Juniors,FALSE
+ Interdistrict 25 A,Juniors,Juniors,FALSE
+ MF-MR-11A,Juniors,Juniors,FALSE
+ MR-MR-10C,Juniors,Juniors,FALSE
+ MR-MR-10D,Juniors,Juniors,FALSE
+ O 35 Sat A,Juniors,Juniors,FALSE
+ O 35 Sat A,Juniors,Juniors,FALSE
+ O 35 Sat B,Juniors,Juniors,FALSE
+ O 35 Sat B,Juniors,Juniors,FALSE
+ O 35 Sat C,Juniors,Juniors,FALSE
+ O 35 Sat C,Juniors,Juniors,FALSE
+ O/35 Fri A,Juniors,Juniors,FALSE
+ O/35 Fri A,Juniors,Juniors,FALSE
+ O/35 Fri B,Juniors,Juniors,FALSE
+ O/35 Fri B,Juniors,Juniors,FALSE
+ O/35 Fri C,Juniors,Juniors,FALSE
+ O/35 Fri C,Juniors,Juniors,FALSE
+ O/35 Fri D,Juniors,Juniors,FALSE
+ O/35 Fri D,Juniors,Juniors,FALSE
+ O/35 Fri E,Juniors,Juniors,FALSE
+ O/35 Fri E,Juniors,Juniors,FALSE
+ O/35 Fri F,Juniors,Juniors,FALSE
+ O/35 Fri F,Juniors,Juniors,FALSE
+ O/35 Fri G,Juniors,Juniors,FALSE
+ O/35 Fri G,Juniors,Juniors,FALSE
+ O/35 Fri H,Juniors,Juniors,FALSE
+ O/35 Fri H,Juniors,Juniors,FALSE
+ O/35 Fri J,Juniors,Juniors,FALSE
+ O/35 Fri J,Juniors,Juniors,FALSE
+ O/35 Fri K,Juniors,Juniors,FALSE
+ O/35 Fri K,Juniors,Juniors,FALSE
+ O/35 Fri L,Juniors,Juniors,FALSE
+ O/35 Sat D,Juniors,Juniors,FALSE
+ O/35 Sat E,Juniors,Juniors,FALSE
+ O/35 Sat F,Juniors,Juniors,FALSE
+ SAP 10,Juniors,Juniors,FALSE
+ SAP 11,Juniors,Juniors,FALSE
+ SAP 11,Juniors,Juniors,FALSE
+ SAP 12,Juniors,Juniors,FALSE
+ SAP 12,Juniors,Juniors,FALSE
+ SAP 9,Juniors,Juniors,FALSE
+ SAP11,Juniors,Juniors,FALSE
+ SAP12,Juniors,Juniors,FALSE
+ Summer O35,Juniors,Juniors,FALSE
+ W12 A,Juniors,Juniors,FALSE
+ W12 A,Juniors,Juniors,FALSE
+ W12 B,Juniors,Juniors,FALSE
+ W12 B,Juniors,Juniors,FALSE
+ W12 C,Juniors,Juniors,FALSE
+ W12 C,Juniors,Juniors,FALSE
+ W13 A,Juniors,Juniors,FALSE
+ W13 A,Juniors,Juniors,FALSE
+ W13 B,Juniors,Juniors,FALSE
+ W13 B,Juniors,Juniors,FALSE
+ W14 A,Juniors,Juniors,FALSE
+ W14 A,Juniors,Juniors,FALSE
+ W14 B,Juniors,Juniors,FALSE
+ W14 B,Juniors,Juniors,FALSE
+ W15 A,Juniors,Juniors,FALSE
+ W15 A,Juniors,Juniors,FALSE
+ W15 B,Juniors,Juniors,FALSE
+ W16 A,Juniors,Juniors,FALSE
+ W16 A,Juniors,Juniors,FALSE
+ W16 B,Juniors,Juniors,FALSE
+ W16 B,Juniors,Juniors,FALSE
+ W16 C,Juniors,Juniors,FALSE
+ W18 A,Juniors,Juniors,FALSE
+ W18 A,Juniors,Juniors,FALSE
+ WA/A  A,Juniors,Juniors,FALSE
+ WA/A  A,Juniors,Juniors,FALSE
+ WA/A B,Juniors,Juniors,FALSE
+ WA/A B,Juniors,Juniors,FALSE
+ WA/A C,Juniors,Juniors,FALSE
+ WA/A C,Juniors,Juniors,FALSE
+ WA/A D,Juniors,Juniors,FALSE
+ WA/A D,Juniors,Juniors,FALSE
+ WA/A E,Juniors,Juniors,FALSE
+ WA/A E,Juniors,Juniors,FALSE
+ WA/A F,Juniors,Juniors,FALSE
+ WA/A F,Juniors,Juniors,FALSE
+ WA/A G,Juniors,Juniors,FALSE
+ WA/A G,Juniors,Juniors,FALSE
+ WA/A H,Juniors,Juniors,FALSE
+NPL - first grade line,First Grade,National Premier League,TRUE
+NPL - reserve grade line,Reserve Grade,National Premier League,TRUE
+NPL - youth grade centre,Youth Grade,National Premier League,TRUE
+NPL - Youth grade line,Youth Grade,National Premier League,TRUE
+NPL 13,Under 13,National Premier League,FALSE
+NPL 14,Under 14,National Premier League,FALSE
+NPL 15,Under 15,National Premier League,FALSE
+NPL 16,Under 16,National Premier League,FALSE
+NPL 18,Under 18,National Premier League,TRUE
+NPL 19 4th,Youth Grade,National Premier League,TRUE
+NPL 19 AR,Youth Grade,National Premier League,TRUE
+NPL 19 Ref,Youth Grade,National Premier League,TRUE
+NPL 1st,First Grade,National Premier League,TRUE
+NPL 1st 4th,First Grade,National Premier League,TRUE
+NPL 1st AR,First Grade,National Premier League,TRUE
+NPL 1st Ref,First Grade,National Premier League,TRUE
+NPL 22 4th,Reserve Grade,National Premier League,TRUE
+NPL 22 AR,Reserve Grade,National Premier League,TRUE
+NPL 22 Ref,Reserve Grade,National Premier League,TRUE
+NPL- first grade centre,First Grade,National Premier League,TRUE
+NPL Men's,First Grade,National Premier League,TRUE
+NPL Res,Reserve Grade,National Premier League,TRUE
+NPL reserve grade centre,Reserve Grade,National Premier League,TRUE
+NPL Women',First Grade,National Premier League,TRUE
+NPL13,Under 13,National Premier League,FALSE
+NPL14,Under 14,National Premier League,FALSE
+NPL15,Under 15,National Premier League,FALSE
+NPL16,Under 16,National Premier League,FALSE
+NPL17,Under 17,National Premier League,FALSE
+NPL18,Youth Grade,National Premier League,TRUE
+NPL19,Youth Grade,National Premier League,TRUE
+NPL20,Reserve Grade,National Premier League,TRUE
+NPL22,Reserve Grade,National Premier League,TRUE
+U13 - NPL,Under 13,National Premier League,FALSE
+U15 - NPL,Under 15,National Premier League,FALSE
+U17 - NPL,Under 17,National Premier League,FALSE
+NL1 13,Under 13,Northern League One,FALSE
+NL1 14,Under 14,Northern League One,FALSE
+NL1 15,Under 15,Northern League One,FALSE
+NL1 16,Under 16,Northern League One,FALSE
+NL1 18,Under 18,Northern League One,FALSE
+NL1 1st,First Grade,Northern League One,TRUE
+NL1 Res,Reserve Grade,Northern League One,TRUE
+NL1 Youth,Youth Grade,Northern League One,TRUE
+FNSWNPL13,NSW Under 13,NSW National Premier League,FALSE
+FNSWNPL14,NSW Under 14,NSW National Premier League,FALSE
+FNSWNPL15,NSW Under 15,NSW National Premier League,FALSE
+FNSWNPL16,NSW Under 16,NSW National Premier League,FALSE
+FNSWNPL18,NSW Under 18,NSW National Premier League,TRUE
+FNSWNPL1st,NSW First Grade,NSW National Premier League,TRUE
+FNSWNPL20,NSW Under 20,NSW National Premier League,TRUE
+4th official 1st grade state,First Grade,State League,TRUE
+4th official 1st grade state  G/Final,First Grade,State League,TRUE
+4th official 1st grade state G/Final,First Grade,State League,TRUE
+4th official 1st grade state s/final,First Grade,State League,TRUE
+4th official reserve or youth,Reserve Grade,State League,TRUE
+4th official reserve or youth G/Final,Reserve Grade,State League,TRUE
+NBN First Grade Centre,First Grade,State League,TRUE
+NBN First Grade Line,First Grade,State League,TRUE
+NBN Reserve Grade Centre,Reserve Grade,State League,TRUE
+NBN Reserve Line,Reserve Grade,State League,TRUE
+NBN Youth Grade Centre,Youth Grade,State League,TRUE
+NBN Youth Grade Line,Youth Grade,State League,TRUE
+NSWWOMEN 1st AR,NSW First Grade,NSW Womens National Premier League,TRUE
+NSWWOMEN 1st Ref,NSW First Grade,NSW Womens National Premier League,TRUE
+NSWWPL13,Under 13,NSW Womens National Premier League,FALSE
+NSWWPL15,Under 15,NSW Womens National Premier League,FALSE
+NSWWPL17,Under 17,NSW Womens National Premier League,FALSE
+NSWWPL1st,NSW First Grade,NSW Womens National Premier League,TRUE
+NSWWPLRes,NSW Reserve Grade,NSW Womens National Premier League,TRUE
+WNPL 14,Under 14,Womens National Premier League,FALSE
+WNPL 15,Under 15,Womens National Premier League,FALSE
+WNPL 17,Under 17,Womens National Premier League,FALSE
+WNPL 1st,First Grade,Womens National Premier League,TRUE
+WNPL Res,First Grade,Womens National Premier League,TRUE
+U14 - New,Under 14,Womens Premier League,FALSE
+U17 - Hera,Under 17,Womens Premier League,FALSE
+U20 - Hera,Reserve Grade,Womens Premier League,TRUE
+Womens Premier League Centre,First Grade,Womens Premier League,TRUE
+Womens Premier League Line,First Grade,Womens Premier League,TRUE
+Women's Premier League Line,First Grade,Womens Premier League,TRUE
+WPL  4th,First Grade,Womens Premier League,TRUE
+WPL  AR,First Grade,Womens Premier League,TRUE
+WPL  Ref,First Grade,Womens Premier League,TRUE
+WPL 14,Under 14,Womens Premier League,FALSE
+WPL 16,Under 16,Womens Premier League,FALSE
+WPL 17,Under 17,Womens Premier League,FALSE
+WPL 18,Under 18,Womens Premier League,TRUE
+WPL 18 AR,Under 18,Womens Premier League,TRUE
+WPL 18 Ref,Under 18,Womens Premier League,TRUE
+WPL 1st,First Grade,Womens Premier League,TRUE
+WPL 1st 4th,First Grade,Womens Premier League,TRUE
+WPL 1st AR,First Grade,Womens Premier League,TRUE
+WPL 1st Ref,First Grade,Womens Premier League,TRUE
+WPL Res,First Grade,Womens Premier League,TRUE
+WPL-U/18 CENTRE,First Grade,Womens Premier League,TRUE
+WPL-U/18 LINE,First Grade,Womens Premier League,TRUE
+4th official interdistrict,First Grade,Zone League,TRUE
+First Grade Centre ID1,First Grade,Zone League,TRUE
+First Grade Centre ID1 G/Final,First Grade,Zone League,TRUE
+First Grade Centre ID2,First Grade,Zone League,TRUE
+First Grade Centre ID2     G/Final,First Grade,Zone League,TRUE
+First Grade Centre ID3,First Grade,Zone League,TRUE
+First Grade Centre ID3 G/Final,First Grade,Zone League,TRUE
+First Grade Line ID1,First Grade,Zone League,TRUE
+First Grade Line ID1 G/Final,First Grade,Zone League,TRUE
+First Grade Line ID2,First Grade,Zone League,TRUE
+First Grade Line ID2   G/Final,First Grade,Zone League,TRUE
+First Grade Line ID3,First Grade,Zone League,TRUE
+First Grade Line ID3  G/Final,First Grade,Zone League,TRUE
+Reserve Gr,First Grade,Zone League,TRUE
+Reserve Grade Centre,First Grade,Zone League,TRUE
+Reserve Grade Centre G/Final,Reserve Grade,Zone League,TRUE
+Reserve Grade Centre ID1,Reserve Grade,Zone League,TRUE
+Reserve Grade Centre ID1 G/Final,Reserve Grade,Zone League,TRUE
+Reserve Grade Centre ID2,Reserve Grade,Zone League,TRUE
+Reserve Grade Centre ID2 G/Final,Reserve Grade,Zone League,TRUE
+Reserve grade Line ID1,Reserve Grade,Zone League,TRUE
+Reserve grade Line ID1 G/Final,Reserve Grade,Zone League,TRUE
+Reserve Grade Line ID2,Reserve Grade,Zone League,TRUE
+Reserve Grade Line ID2 G/Final,Reserve Grade,Zone League,TRUE
+Reserve Grade Line ID3,Reserve Grade,Zone League,TRUE
+Reserve Grade Line ID3 G/Final,Reserve Grade,Zone League,TRUE
+Third Grade Centre ID1,Third Grade,Zone League,TRUE
+Third Grade Centre ID1 G/Final,Third Grade,Zone League,TRUE
+Third Grade Line ID1,Third Grade,Zone League,TRUE
+Third Grade Line ID1 G/Final,Third Grade,Zone League,TRUE
+ZFL,First Grade,Zone League,TRUE
+ZFL1st,First Grade,Zone League,TRUE
+ZL1 1st,First Grade,Zone League,TRUE
+ZL1 1st 4th,First Grade,Zone League,TRUE
+ZL1 1st AR,First Grade,Zone League,TRUE
+ZL1 1st Ref,First Grade,Zone League,TRUE
+ZL1 3rd,First Grade,Zone League,TRUE
+ZL1 3rd 4th,First Grade,Zone League,TRUE
+ZL1 3rd AR,First Grade,Zone League,TRUE
+ZL1 3rd Ref,First Grade,Zone League,TRUE
+ZL1 Res,First Grade,Zone League,TRUE
+ZL1 Res AR,First Grade,Zone League,TRUE
+ZL1 Res Ref,First Grade,Zone League,TRUE
+ZL2 1st,First Grade,Zone League,TRUE
+ZL2 1st AR,First Grade,Zone League,TRUE
+ZL2 1st Ref,First Grade,Zone League,TRUE
+ZL2 Res,First Grade,Zone League,TRUE
+ZL2 Res 4th,First Grade,Zone League,TRUE
+ZL2 Res AR,First Grade,Zone League,TRUE
+ZL2 Res Ref,First Grade,Zone League,TRUE
+ZL2/3 1st,First Grade,Zone League,TRUE
+ZL2/3 Res,Reserve Grade,Zone League,TRUE
+ZL3 1st,First Grade,Zone League,TRUE
+ZL3 1st 4th,First Grade,Zone League,TRUE
+ZL3 1st AR,First Grade,Zone League,TRUE
+ZL3 1st Ref,First Grade,Zone League,TRUE
+ZL3 Res,First Grade,Zone League,TRUE
+ZL3 Res 4th,First Grade,Zone League,TRUE
+ZL3 Res AR,First Grade,Zone League,TRUE
+ZL3 Res Ref,First Grade,Zone League,TRUE
+Zone Women,First Grade,Zone League,TRUE
+Interdistrict 25 A,Third Grade,Zone Premier League,TRUE
+premier 1st  grade line-g/final,First Grade,Zone Premier League,TRUE
+premier 1st  grade line-s/final,First Grade,Zone Premier League,TRUE
+premier 1st grade centre-g/final,First Grade,Zone Premier League,TRUE
+premier 1st grade centre-s/final,First Grade,Zone Premier League,TRUE
+PREMIER 1ST GRADE LINE,First Grade,Zone Premier League,TRUE
+Premier first grade line,First Grade,Zone Premier League,TRUE
+PREMIER IST GRADE CENTRE,First Grade,Zone Premier League,TRUE
+premier res grade centre-g/final,Reserve Grade,Zone Premier League,TRUE
+premier res grade centre-s/final,Reserve Grade,Zone Premier League,TRUE
+premier res grade line-g/final,Reserve Grade,Zone Premier League,TRUE
+premier res grade line-s-final,Reserve Grade,Zone Premier League,TRUE
+PREMIER RESERVE GRADE CENTRE,Reserve Grade,Zone Premier League,TRUE
+PREMIER RESERVE GRADE LINE,Reserve Grade,Zone Premier League,TRUE
+PREMIER YOUTH GRADE CENTRE,Reserve Grade,Zone Premier League,TRUE
+premier youth grade centre-g/final,Reserve Grade,Zone Premier League,TRUE
+premier youth grade centre-s/final,Reserve Grade,Zone Premier League,TRUE
+PREMIER YOUTH GRADE LINE,Reserve Grade,Zone Premier League,TRUE
+premier youth grade line g/final,Reserve Grade,Zone Premier League,TRUE
+premier youth grade line s/final,Reserve Grade,Zone Premier League,TRUE
+ZFLP,First Grade,Zone Premier League,TRUE
+ZFLP1st,First Grade,Zone Premier League,TRUE
+ZPL 1st,First Grade,Zone Premier League,TRUE
+ZPL 1st 4th,First Grade,Zone Premier League,TRUE
+ZPL 1st AR,First Grade,Zone Premier League,TRUE
+ZPL 1st Ref,First Grade,Zone Premier League,TRUE
+ZPL 3rd,Third Grade,Zone Premier League,TRUE
+ZPL 3rd 4th,Third Grade,Zone Premier League,TRUE
+ZPL 3rd AR,Third Grade,Zone Premier League,TRUE
+ZPL 3rd Ref,Third Grade,Zone Premier League,TRUE
+ZPL Res,Reserve Grade,Zone Premier League,TRUE
+ZPL Res AR,Reserve Grade,Zone Premier League,TRUE
+ZPL Res Ref,Reserve Grade,Zone Premier League,TRUE
