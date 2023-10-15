@@ -12,7 +12,18 @@ with union_all_apps as(
             TRIM(REPLACE(name, '\u0000', '')) AS name,
             TRIM(REPLACE(date, '\u0000', '')) AS match_date,
             TRIM(REPLACE(position, '\u0000', '')) AS position,
-            TRIM(REPLACE(description, '\u0000', '')) AS match_grade,
+            -- 2015 is special as it has the teams listed in the match grade
+            {% if year == 2015 %}
+                TRIM(REPLACE(
+                    CASE
+                        WHEN INSTR(description, ';') > 0 THEN SUBSTR(description, 1, INSTR(description, ';')-1)
+                        ELSE description
+                    END,
+                    '\u0000',
+                    ''
+                )) AS match_grade,
+            {% else %}
+                TRIM(REPLACE(description, '\u0000', '')) AS match_grade,
             null as kick_off,
             null as ground,
             null as home_team,

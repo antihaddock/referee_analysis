@@ -10,8 +10,12 @@
             , case
                 when app.position = 'Assistant Referee 1' THEN 'Assistant Referee' 
                 when app.position = 'Assistant Referee 2' THEN 'Assistant Referee' 
-                WHEN REGEXP_CONTAINS(LOWER(app.position), r'(?i)line') THEN 'Assistant Referee'
-                WHEN REGEXP_CONTAINS(LOWER(app.position), r'(?i)centre') THEN 'Referee' 
+                WHEN REGEXP_CONTAINS(LOWER(app.position), r'(?i)line') OR 
+                      REGEXP_CONTAINS(LOWER(app.position), r'(?i)AR')
+                THEN 'Assistant Referee'
+                WHEN REGEXP_CONTAINS(LOWER(app.position), r'(?i)centre') OR
+                REGEXP_CONTAINS(LOWER(app.position), r'(?i)Ref') 
+                THEN 'Referee' 
                 WHEN REGEXP_CONTAINS(LOWER(app.position), r'(?i)4th') THEN 'Fourth Official' 
                 else app.position 
             end as position
