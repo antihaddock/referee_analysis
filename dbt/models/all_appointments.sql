@@ -24,6 +24,7 @@ with union_all_apps as(
                 )) AS match_grade,
             {% else %}
                 TRIM(REPLACE(description, '\u0000', '')) AS match_grade,
+            {% endif %}
             null as kick_off,
             null as ground,
             null as home_team,
