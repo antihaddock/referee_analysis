@@ -7,10 +7,13 @@
             app.primary_key
             , app.name
             , app.match_date
-            , case 
-                when app.position = 'Assistant Referee 1' then 'Assistant Referee'
-                when app.position = 'Assistant Referee 2' then 'Assistant Referee'
-                else app.position
+            , case
+                when app.position = 'Assistant Referee 1' THEN 'Assistant Referee' 
+                when app.position = 'Assistant Referee 2' THEN 'Assistant Referee' 
+                WHEN REGEXP_CONTAINS(LOWER(app.position), r'(?i)line') THEN 'Assistant Referee'
+                WHEN REGEXP_CONTAINS(LOWER(app.position), r'(?i)centre') THEN 'Referee' 
+                WHEN REGEXP_CONTAINS(LOWER(app.position), r'(?i)4th') THEN 'Fourth Official' 
+                else app.position 
             end as position
             , match_grade
             , kick_off
@@ -31,7 +34,11 @@
     , trial_match_flags as (
     select 
         t1.*,
-        CASE
+        CASE    
+                -- data from 2013 back does not include trial matches as they weren't billed
+                when t1.match_date < '2014-01-01'
+                then FALSE
+                -- find of the match date is in the season
                 WHEN t1.match_date BETWEEN t2.start_date AND t2.end_date
                 THEN FALSE
                 WHEN t1.match_date BETWEEN t2.start_date AND t2.end_date

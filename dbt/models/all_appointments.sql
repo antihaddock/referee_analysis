@@ -11,8 +11,8 @@ with union_all_apps as(
         select 
             TRIM(REPLACE(name, '\u0000', '')) AS name,
             TRIM(REPLACE(date, '\u0000', '')) AS match_date,
-            position,
-            description as match_grade,
+            TRIM(REPLACE(position, '\u0000', '')) AS position,
+            TRIM(REPLACE(description, '\u0000', '')) AS match_grade,
             null as kick_off,
             null as ground,
             null as home_team,

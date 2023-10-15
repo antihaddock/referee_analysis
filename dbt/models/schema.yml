@@ -10,12 +10,25 @@ seeds:
       - name: Year
         
 
-      - name: Start_Date
+      - name: start_date
         meta:
           dbt_utils:
             parse_dates: true
 
-      - name: End_Date
+      - name: end_date
         meta:
           dbt_utils:
             parse_dates: true
+
+models:
+  - name: cleaned_appointments
+    description: cleaned list of all appointments between 2023 and 2009
+    columns:
+      - name: primary_key
+        tests:
+          - unique
+          - not_null
+      - name: position
+        test:
+        - expected_values: ["Referee", "Assistant Referee", "Inspector/Assessor", "Fourth Official"]
+      
