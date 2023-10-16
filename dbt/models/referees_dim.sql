@@ -10,7 +10,7 @@ SELECT
   )
 
   SELECT
-  name_cleaned as name,
+  name,
   STRING_AGG(DISTINCT CAST(EXTRACT(YEAR FROM match_date) AS STRING) ORDER BY CAST(EXTRACT(YEAR FROM match_date) AS STRING)) AS years_active,
   COUNT(DISTINCT EXTRACT(YEAR FROM match_date)) AS num_years_active,
   min(EXTRACT(YEAR FROM match_date)) as first_year_active,

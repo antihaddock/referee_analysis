@@ -12,16 +12,9 @@ with union_all_apps as(
             TRIM(REPLACE(name, '\u0000', '')) AS name,
             TRIM(REPLACE(date, '\u0000', '')) AS match_date,
             TRIM(REPLACE(position, '\u0000', '')) AS position,
-            -- 2015 is special as it has the teams listed in the match grade
-            {% if year == 2015 %}
-                TRIM(REPLACE(
-                    CASE
-                        WHEN INSTR(description, ';') > 0 THEN SUBSTR(description, 1, INSTR(description, ';')-1)
-                        ELSE description
-                    END,
-                    '\u0000',
-                    ''
-                )) AS match_grade,
+            -- 2015 is special as it has the teams listed in the match grade separated by a ;
+            {% if year == '2015' %}
+              TRIM(REPLACE(SUBSTR(description, 1, INSTR(description, ';')), '\u0000', '')) AS match_grade,
             {% else %}
                 TRIM(REPLACE(description, '\u0000', '')) AS match_grade,
             {% endif %}
@@ -31,9 +24,9 @@ with union_all_apps as(
             null as away_team
         from 
             {{source('raw', year)}}
-               {% if not loop.last %}
+        {% if not loop.last %}
          union all
-         {% endif %}
+        {% endif %}
     {% endfor %}
     
         union all
