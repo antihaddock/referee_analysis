@@ -1,5 +1,5 @@
 
-{% set non_match_ref_years = ['2009', '20102011','2012', '20132014', '2015'] %}
+{% set non_match_ref_years = ['2009', '20102011','2012', '20132014'] %}
 {% set match_ref_years = ['201620172018', '2019','2020', '2021', '2022', '2023'] %}
 
 
@@ -28,7 +28,22 @@ with union_all_apps as(
          union all
         {% endif %}
     {% endfor %}
-    
+
+      union all 
+       select 
+            TRIM(REPLACE(name, '\u0000', '')) AS name,
+            TRIM(REPLACE(date, '\u0000', '')) AS match_date,
+            TRIM(REPLACE(position, '\u0000', '')) AS position,
+            -- 2015 is special as it has the teams listed in the match grade separated by a ;
+            TRIM(REPLACE(SUBSTR(description, 1, INSTR(description, ';')), '\u0000', '')) AS match_grade,
+            null as kick_off,
+            null as ground,
+            null as home_team,
+            null as away_team
+        from 
+            {{source('raw', '2015')}}
+       
+   
         union all
     -- join all matchref years data to non match ref
     -- the import from raw is adding all these random '\u0000' onto strings
